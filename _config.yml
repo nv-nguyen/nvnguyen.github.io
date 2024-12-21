@@ -2,10 +2,10 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Van Nguyen Nguyen, PhD student in Computer Vision, France # the website title (if blank, full name will be used instead)
+title: Van Nguyen NGUYEN, PhD student in Computer Vision, France # the website title (if blank, full name will be used instead)
 first_name: Van Nguyen
 middle_name: 
-last_name: Nguyen
+last_name: NGUYEN
 email: van-nguyen.nguyen@enpc.fr
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
@@ -120,7 +120,7 @@ collections:
     output: true
     permalink: /projects/:path/
 
-news_limit: 8
+news_limit: 20
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -205,8 +205,8 @@ jekyll-archives:
 
 scholar:
 
-  last_name: Cao
-  first_name: Anh-Quan
+  last_name: NGUYEN
+  first_name: Van Nguyen
 
   style: apa
   locale: en
